@@ -1,0 +1,100 @@
+
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+#header{
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    display: flex;
+    text-align: center;
+}
+h1
+{
+    font-weight: 700;
+    font-size: 35px;
+}
+h2{
+    font-weight: 700;
+    font-size: 25px;
+}
+#content{
+    color: white;
+    margin: auto;
+    width: 600px;
+}
+.button{
+    text-decoration: none;
+    padding: 10px 40px;
+    background-color: #ff5959;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+
+}
+.middle-content{
+    text-align: center;
+    margin: 100px auto;
+    width: 900px;
+}
+.sub-content{
+    margin-bottom: 50px;
+}
+.donation{
+    margin-bottom: 50px;
+
+}
+.donation button{
+    font-size: 25px;
+    border: none;
+    color: black;
+    background-color: white;
+    height: 100px;
+    width: 110px;
+}
+#button-color{
+    color: #ff5959;
+    background-color: #faa5a5;
+    border: 2px solid #ff5959;
+    border-radius: 10px;
+}
+#amount{
+    border: none;
+    border-bottom: 2px solid green;
+    font-weight: 700;
+    margin-bottom: 40px;
+    text-align: center;
+    width: 100%;
+    padding: 12px 20px;
+}
+.triplet{
+    text-align: center;
+        width: 30%;
+        padding-left: 5%;
+}
+
+
+
+
+
+
+
+
+
+footer{
+    padding-top: 2px;
+    padding-bottom: 2px;
+    background-color: black;
+    text-align: center;
+
+}
+.footer-h1{
+    font-family: 'Lobster', cursive;
+    color: #ff5959;
+    
+}
+.color{
+    color: white;
+}
