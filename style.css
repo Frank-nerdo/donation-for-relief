@@ -70,16 +70,53 @@ h2{
     padding: 12px 20px;
 }
 .triplet{
-    text-align: center;
+    text-align: left;
         width: 30%;
-        padding-left: 5%;
+        padding-left: 2%;
+        padding-right: 2%;
+        margin-right: 5px;
+        padding-top: 30px;
 }
 
+.junk{
+    display: flex;
+}
+#food{
+    background-color: #e5f9fc;
+}
+#shelter {
+    background-color: #ffe6e6;
+}
+#education {
+    background-color: #fcf4e0;
+}
+.form {
+    display: flex;
+}
 
+.updates {
+    border: none;
+    border-radius: 30px;
+    height: 20px;
+    width: 600px;
+    padding: 100px 5px 120px 170px;
+    margin: 0 auto 75px;
+    background-color: #fcf4e0;
+}
 
-
-
-
+#email {
+    text-align: left;
+    height: 48px;
+    width: 275px;
+}
+#subscribe {
+    font-weight: 700;
+    color: white;
+    background-color: #FF5959;
+    padding: 15px 40px;
+    border: none;
+    text-decoration: none;
+}
 
 
 
